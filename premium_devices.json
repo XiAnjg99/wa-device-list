@@ -1,11 +1,11 @@
 [
     {
-        "device_id": "78127c3299a50004",
+        "deviceid": "78127c3299a50004",
         "username": "Aizen",
         "expiry_date": "2026-12-31"
     },
     {
-        "device_id": "abcdef1234567890",
+        "deviceid": "abcdef1234567890",
         "username": "User2",
         "expiry_date": "2023-12-31"
     }
