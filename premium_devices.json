@@ -1,12 +1,8 @@
-[
-    {
-        "deviceid": "78127c3299a50004",
-        "username": "Aizen",
-        "expiry_date": "2026-12-31"
-    },
-    {
-        "deviceid": "abcdef1234567890",
-        "username": "User2",
-        "expiry_date": "2023-12-31"
-    }
-]
+{
+  "78127c3299a50004": {
+    "expiry_date": "2026-01-01"
+  },
+  "EFGH5678": {
+    "expiry_date": "2024-10-31"
+  }
+}
