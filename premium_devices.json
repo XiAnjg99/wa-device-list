@@ -1,7 +1,14 @@
 {
-  "devices": [
-    "78127c32uu99a50004",
-    "78127uuc3299a50004",
-    "78127c32uuu99a50004"
+  "valid_devices": [
+    "78127c3299a50004",
+    "1234567890abcdef",
+    "a1b2c3d4e5f67890"
+  ],
+  "vip_users": [
+    {
+      "device_id": "78127c3299a50004",
+      "expiry_date": "2099-12-31",
+      "package": "lifetime"
+    }
   ]
 }
